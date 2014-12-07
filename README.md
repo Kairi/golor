@@ -3,13 +3,13 @@ golor
 
 golang lib for colorlize ouput
 
-**Instllation
+##Instllation
 
 ```bash
 go get github.com/Kairi/golor
 ```
 
-**Sample
+##Sample
 ```go
 import (
     "fmt"
